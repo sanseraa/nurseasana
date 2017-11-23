@@ -314,7 +314,8 @@ code {
  ----------- Header ------------
  -------------------------------- */
 
-
+h1 {
+  }
 
 .logo {
     max-width: 20%;
@@ -343,6 +344,7 @@ code {
 }
 
 .main-navigation a {
+    font-family: "mrs-eaves-xl-serif",serif;
     color: #a5a5a5;
     text-decoration: none;
     text-transform: uppercase;
